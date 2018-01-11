@@ -9,7 +9,7 @@ class App extends Component {
           <h1 className="App-title">Dextra Park</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          This is going to be the home page.
         </p>
       </div>
     );
